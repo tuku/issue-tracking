@@ -9,7 +9,7 @@ Reporting Issues
 
 If you encounter an issue while using one of ApexKO's services (be it in-game, the website, or even the forums), first search the [issue list](https://github.com/ApexKO/issue-tracking/issues) to see if it has already been reported. Include closed issues in your search. 
 
-If it has not been reported, please do not use [create a forum thread](http://forum.apexko.com/index.php?app=forums&module=post&section=post&do=new_post&f=12) with at least the following information:
+If it has not been reported, please [create a forum thread](http://forum.apexko.com/index.php?app=forums&module=post&section=post&do=new_post&f=12) with at least the following information:
 
 - a short, descriptive title;
 - a detailed description of the issue;
